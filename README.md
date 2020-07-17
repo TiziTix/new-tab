@@ -1,6 +1,6 @@
 # new-tab
 
-Need : 
+To do : 
 - Default variables
 - Links websites
 - Customize wallpaper

@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color : white;
+    font-family: monospace;
+    font-size: 17px;
+    
+}
+#MainBlock{
+    padding: 20px;
+    margin: 0% 10%;
+    background-color: rgba(77, 77, 77, .5);
+    width: 80%;
+    height: 100vh;
+}
+#time{
+    margin-top: 20%;
+    font-size: 50px;
+    display: inline-block;
+}
+#edit{
+    position: absolute;
+    bottom: 20px;
+}
+#settings{
+    background-color: rgba(77, 77, 77, .2);
+    padding: 15px;
+    border-radius: 7px;
+    width: 500px;
+    position: absolute;
+    bottom: 65px;
+}
+.Atest{
+    width: 50%;
+}
+#Welcome{
+    margin-top:50px;
+}
